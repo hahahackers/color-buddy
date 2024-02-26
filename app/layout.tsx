@@ -20,7 +20,7 @@ export default function RootLayout({
         <nav className="p-2">
           <ul className="flex gap-2 items-baseline text-lg">
             <li>
-              <a href="/htmlcolors">HTML Colors</a>
+              <a href="htmlcolors">HTML Colors</a>
             </li>
             <li>
               <span className="text-slate-300">Color Converter</span>
