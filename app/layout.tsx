@@ -23,7 +23,7 @@ export default function RootLayout({
               <a href="htmlcolors">HTML Colors</a>
             </li>
             <li>
-              <span className="text-slate-300">Color Converter</span>
+              <a href="color-converter">Color Converter</a>
             </li>
             <li className="ml-auto text-sm underline">
               <a href="https://github.com/hahahackers/color-buddy">View source code on GitHub</a>
